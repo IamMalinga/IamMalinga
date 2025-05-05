@@ -10,13 +10,14 @@
 - 💬 Let’s geek out over React, Vue.js, and GSAP animations!  
 - 📫 Drop me a line: **malinga_samarakoon@outlook.com**  
 - ⚡ Fun fact: I once debugged code with a rubber duck – it works!  
-<hr>
+
 </br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
 </p>
----
 
+<hr>
+</br>
 ## Connect with Me
 
 <p align="left">
