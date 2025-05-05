@@ -16,7 +16,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
 </p>
 
-<hr>
 </br>
 
 ## Connect with Me
@@ -28,7 +27,7 @@
   <a href="https://www.hackerrank.com/malinga_samarak1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
 </p>
 
----
+
 
 ## Languages & Tools
 
@@ -46,8 +45,6 @@ Here are some of the technologies I’m proficient in or exploring:
 </p>
 
 
-
----
 
 ## My Stats
 
