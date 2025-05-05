@@ -1,9 +1,6 @@
 # Hi 👋, I'm Malinga Samarakoon
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
-</p>
+
 
 - 🚀 Aspiring tech innovator | Computer Science undergrad  
 - 💡 Passionate about leveraging tech for positive impact  
@@ -13,7 +10,12 @@
 - 💬 Let’s geek out over React, Vue.js, and GSAP animations!  
 - 📫 Drop me a line: **malinga_samarakoon@outlook.com**  
 - ⚡ Fun fact: I once debugged code with a rubber duck – it works!  
-
+<hr>
+</br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
+</p>
 ---
 
 ## Connect with Me
@@ -48,14 +50,14 @@ Here are some of the technologies I’m proficient in or exploring:
 
 ## My Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammalinga&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iammalinga&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&theme=radical" alt="Streak Stats" />
 </p>
