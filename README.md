@@ -7,7 +7,7 @@
 - 🌱 Diving deep into DevOps and cloud computing  
 - 👯 Open to collabs on AI-driven or sustainable tech projects  
 - 🤝 Seeking mentors to explore efficient workflows  
-- 💬 Let’s geek out over React, Vue.js, and GSAP animations!  
+- 💬 Let’s geek out over React, Node.js and Spring Boot!  
 - 📫 Drop me a line: **malinga_samarakoon@outlook.com**  
 - ⚡ Fun fact: I once debugged code with a rubber duck – it works!  
 
@@ -45,14 +45,14 @@ Here are some of the technologies I’m proficient in or exploring:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js" />
 </p>
 
-*(Feel free to add more tools you're excited about!)*
+
 
 ---
 
 ## My Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammalinga&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammalinga&show_icons=true&locale=en&layout=compact&bg_color=0A192F&title_color=00BFFF&text_color=E6F1FF&icon_color=00BFFF&border_color=1E3A5F&border_radius=15" alt="Top Languages" />
 </p>
 
 <p align="left">
