@@ -1,6 +1,6 @@
 # Hi 👋, I'm Malinga Samarakoon
 
-
+  <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 - 🚀 Aspiring tech innovator | Computer Science undergrad  
 - 💡 Passionate about leveraging tech for positive impact  
@@ -13,7 +13,6 @@
 <hr>
 </br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
 </p>
 ---
