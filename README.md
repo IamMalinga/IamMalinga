@@ -52,7 +52,7 @@ Here are some of the technologies I’m proficient in or exploring:
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=iammalinga&show_icons=true&locale=en&layout=compact&bg_color=0A192F&title_color=00BFFF&text_color=E6F1FF&icon_color=00BFFF&border_color=1E3A5F&border_radius=15"
   alt="Top Languages"
-  style="width: 400px; max-width: 100%;"
+  style="width: 400px; max-width: 100%; padding:100;"
 />
 </p>
 
