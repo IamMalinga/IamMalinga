@@ -26,7 +26,7 @@
   <a href="https://stackoverflow.com/users/28654830" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/malinga_samarak1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
 </p>
-
+</br>
 
 
 ## Languages & Tools
@@ -43,7 +43,7 @@ Here are some of the technologies I’m proficient in or exploring:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js" />
 </p>
-
+</br>
 
 
 ## My Stats
@@ -59,3 +59,4 @@ Here are some of the technologies I’m proficient in or exploring:
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&background=0A192F&border=1E3A5F&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=E6F1FF" alt="Streak Stats" />
 </p>
+</br>
