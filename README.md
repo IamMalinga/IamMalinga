@@ -18,15 +18,29 @@
 
 </br>
 
+
+
 ## Connect with Me
 
 <p align="left">
-  <a href="https://dev.to/malinga" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" padding="10"/></a>
-  <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" padding="10"/></a>
-  <a href="https://stackoverflow.com/users/28654830" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" padding="10"/></a>
-  <a href="https://www.hackerrank.com/malinga_samarak1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" padding="10"/></a>
+  <a href="https://malingasamarakoon.online" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="40" width="40" style="padding: 10px;" />
+  </a>
+  <a href="https://dev.to/malinga" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" style="padding: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="padding: 10px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/28654830" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" style="padding: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/malinga_samarak1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="padding: 10px;" />
+  </a>
 </p>
 </br>
+
 
 
 ## Languages & Tools
