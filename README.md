@@ -8,7 +8,7 @@
 - 👯 Open to collabs on AI-driven or sustainable tech projects  
 - 🤝 Seeking mentors to explore efficient workflows  
 - 💬 Let’s geek out over React, Node.js and Spring Boot!  
-- 📫 Drop me a line: **malinga_samarakoon@outlook.com**  
+- 📫 Drop me a line: **malinga.samarakoon.pro@gmail.com**  
 - ⚡ Fun fact: I once debugged code with a rubber duck – it works!  
 
 </br>
