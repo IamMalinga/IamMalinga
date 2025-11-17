@@ -1,78 +1,79 @@
-# Hi 👋, I'm Malinga Samarakoon
+# 🚀 Malinga Samarakoon  
+**Aspiring Tech Innovator • Cloud & DevOps Explorer • Full-Stack Developer**
 
-  <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20Views&color=1E90FF&style=flat-square" />
 
-- 🚀 Aspiring tech innovator | Computer Science undergrad  
-- 💡 Passionate about leveraging tech for positive impact  
-- 🌱 Diving deep into DevOps and cloud computing  
-- 👯 Open to collabs on AI-driven or sustainable tech projects  
-- 🤝 Seeking mentors to explore efficient workflows  
-- 💬 Let’s geek out over React, Node.js and Spring Boot!  
-- 📫 Drop me a line: **malinga.samarakoon.pro@gmail.com**  
-- ⚡ Fun fact: I once debugged code with a rubber duck – it works!  
+Hi! I’m **Malinga**, a passionate CS undergrad obsessed with building meaningful tech.  
+I love crafting scalable apps, exploring cloud-native tools, and diving into AI automation.
 
-</br>
+---
+
+## 🌟 About Me
+- 🚀 *Tech Innovator in the making*  
+- ☁️ Exploring **DevOps**, **Cloud Computing**, and **AI automation**  
+- 🤝 Looking for mentors & collaboration on **AI-driven** or **sustainable tech** projects  
+- 💬 Ask me about **React**, **Node.js**, **Spring Boot**, and **cloud workflows**  
+- 📫 Reach me: **malinga.samarakoon.pro@gmail.com**  
+- 🦆 Fun fact: Debugged production code with a rubber duck — and it worked 😆  
+
+---
+
+## 🏆 GitHub Achievements  
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=onedark" alt="Trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=algolia&margin-w=10&no-frame=true&row=1" />
 </p>
 
-</br>
+---
 
-
-
-## Connect with Me
-
+## 🔗 Connect with Me  
 <p align="left">
-  <a href="https://dev.to/malinga" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" style="padding: 10px;"/></a>
-  <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="padding: 10px;"/></a>
-  <a href="https://stackoverflow.com/users/28654830" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" style="padding: 10px;"/></a>
-  <a href="https://www.hackerrank.com/malinga_samarak1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="padding: 10px;"/></a>
-  <a href="https://malingasamarakoon.online" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Personal Website" height="40" width="40" style="padding: 10px;"/></a>
-</p>
-</br>
-
-
-
-## Languages & Tools
-
-Here are some of the technologies I’m proficient in or exploring:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js" />
-</p>
-</br>
-
-
-## My Stats
-
-<p>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=iammalinga&show_icons=true&locale=en&layout=compact&bg_color=0A192F&title_color=00BFFF&text_color=E6F1FF&icon_color=00BFFF&border_color=1E3A5F&border_radius=15"
-  alt="Top Languages"
-  style="width: 400px; max-width: 100%; padding:100;"
-/>
+  <a href="https://dev.to/malinga"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+  <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://stackoverflow.com/users/28654830"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
+  <a href="https://www.hackerrank.com/malinga_samarak1"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+  <a href="https://malingasamarakoon.online"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
-<p>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=iammalinga&show_icons=true&locale=en&bg_color=0A192F&title_color=00BFFF&text_color=E6F1FF&icon_color=00BFFF&border_color=1E3A5F&border_radius=15"
-  alt="GitHub Stats"
-  style="width: 400px; max-width: 100%;"
-/>
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,python,nodejs,java,spring,docker,aws,git,linux" />
 </p>
 
-<p>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&background=0A192F&border=1E3A5F&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=E6F1FF"
-  alt="Streak Stats"
-  style="width: 400px; max-width: 100%;"
-/>
-</p>
-</br>
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammalinga&layout=compact&theme=tokyonight&border_radius=10" height="180px"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=iammalinga&show_icons=true&theme=tokyonight&border_radius=10" height="180px"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&theme=tokyonight&border_radius=10" height="190px"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Fun Zone  
+> *“Code, coffee, and curiosity — that’s the stack that keeps me going.”*
+
+---
+
+## ⚡ Currently Exploring  
+- 🛰️ Microservices + DevOps pipelines  
+- 🤖 AI-driven workflows  
+- 🛡️ Secure, scalable cloud architecture  
+- 🎨 Full-stack UI/UX improvements  
+
+---
