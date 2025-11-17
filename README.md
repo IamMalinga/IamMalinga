@@ -6,8 +6,6 @@
 Hi! I’m **Malinga**, a passionate CS undergrad obsessed with building meaningful tech.  
 I love crafting scalable apps, exploring cloud-native tools, and diving into AI automation.
 
----
-
 ## 🌟 About Me
 - 🚀 *Tech Innovator in the making*  
 - ☁️ Exploring **DevOps**, **Cloud Computing**, and **AI automation**  
