@@ -24,7 +24,6 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
   <a href="https://dev.to/malinga"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
   <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://stackoverflow.com/users/28654830"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-  <a href="https://www.hackerrank.com/malinga_samarak1"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
   <a href="https://malingasamarakoon.online"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
