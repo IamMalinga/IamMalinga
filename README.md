@@ -1,5 +1,5 @@
 # 🚀 Malinga Samarakoon  
-**Aspiring Tech Innovator • Cloud & DevOps Explorer • Full-Stack Developer**
+**Cloud & DevOps Explorer • Full-Stack Developer**
 
 <img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20Views&color=1E90FF&style=flat-square" />
 
