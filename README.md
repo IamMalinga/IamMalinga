@@ -64,5 +64,3 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
 - 🤖 AI-driven workflows  
 - 🛡️ Secure, scalable cloud architecture  
 - 🎨 Full-stack UI/UX improvements  
-
----
