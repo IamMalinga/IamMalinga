@@ -14,14 +14,10 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
 - 📫 Reach me: **malinga.samarakoon.pro@gmail.com**  
 - 🦆 Fun fact: Debugged production code with a rubber duck — and it worked 😆  
 
----
-
 ## 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=algolia&margin-w=10&no-frame=true&row=1" />
 </p>
-
----
 
 ## 🔗 Connect with Me  
 <p align="left">
@@ -32,14 +28,11 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
   <a href="https://malingasamarakoon.online"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
----
 
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,python,nodejs,java,spring,docker,aws,git,linux" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -61,12 +54,10 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
 </tr>
 </table>
 
----
 
 ## 🚀 Fun Zone  
 > *“Code, coffee, and curiosity — that’s the stack that keeps me going.”*
 
----
 
 ## ⚡ Currently Exploring  
 - 🛰️ Microservices + DevOps pipelines  
