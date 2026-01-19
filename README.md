@@ -11,7 +11,7 @@ I love crafting scalable apps, exploring cloud-native tools, and diving into AI 
 - ☁️ Exploring **DevOps**, **Cloud Computing**, and **AI automation**  
 - 🤝 Looking for mentors & collaboration on **AI-driven** or **sustainable tech** projects  
 - 💬 Ask me about **React**, **Node.js**, **Spring Boot**, and **cloud workflows**  
-- 📫 Reach me: **malinga.samarakoon.pro@gmail.com**  
+- 📫 Reach me: **malinga_samarakoon@outlook.com**  
 - 🦆 Fun fact: Debugged production code with a rubber duck — and it worked 😆  
 
 ## 🏆 GitHub Achievements  
