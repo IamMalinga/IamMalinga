@@ -1,65 +1,165 @@
-# 🚀 Malinga Samarakoon  
-**Cloud & DevOps Explorer • Full-Stack Developer**
+# Hi there 👋 I'm Malinga Samarakoon
 
-<img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile%20Views&color=1E90FF&style=flat-square" />
+<div align="center">
 
-Hi! I’m **Malinga**, a passionate CS undergrad obsessed with building meaningful tech.  
-I love crafting scalable apps, exploring cloud-native tools, and diving into AI automation.
+### 🚀 Cloud & DevOps Explorer | Full-Stack Developer | AI Enthusiast
 
-## 🌟 About Me
-- 🚀 *Tech Innovator in the making*  
-- ☁️ Exploring **DevOps**, **Cloud Computing**, and **AI automation**  
-- 🤝 Looking for mentors & collaboration on **AI-driven** or **sustainable tech** projects  
-- 💬 Ask me about **React**, **Node.js**, **Spring Boot**, and **cloud workflows**  
-- 📫 Reach me: **malinga_samarakoon@outlook.com**  
-- 🦆 Fun fact: Debugged production code with a rubber duck — and it worked 😆  
+<img src="https://komarev.com/ghpvc/?username=iammalinga&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-## 🏆 GitHub Achievements  
+</div>
+
+---
+
+## 💫 About Me
+
+🎓 B.Sc. (Hons) Computer Science Graduate
+
+💻 Passionate about building scalable applications, cloud-native solutions, and intelligent systems.
+
+🌱 Currently deep-diving into:
+
+- ☁️ Cloud Computing & AWS
+- ⚙️ DevOps & CI/CD Automation
+- 🤖 AI-Powered Applications
+- 🏗️ Microservices Architecture
+
+🎯 Career Goal:
+
+> Build reliable, scalable, and impactful software that solves real-world problems.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=algolia&margin-w=10&no-frame=true&row=1" />
+<a href="https://linkedin.com/in/malinga-samarakoon-b8333527b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://dev.to/malinga">
+<img src="https://skillicons.dev/icons?i=devto" />
+</a>
+<a href="https://stackoverflow.com/users/28654830">
+<img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+<a href="https://malingasamarakoon.online">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://dev.to/malinga"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
-  <a href="https://linkedin.com/in/malinga-samarakoon-b8333527b"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://stackoverflow.com/users/28654830"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-  <a href="https://malingasamarakoon.online"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind" />
 </p>
 
+### Backend
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,python,nodejs,java,spring,docker,aws,git,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,express" />
 </p>
 
-## 📊 GitHub Stats
+### Cloud & DevOps
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammalinga&layout=compact&theme=tokyonight&border_radius=10" height="180px"/>
-</td>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
+</p>
 
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=iammalinga&show_icons=true&theme=tokyonight&border_radius=10" height="180px"/>
-</td>
-</tr>
+### Databases
 
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&theme=tokyonight&border_radius=10" height="190px"/>
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
+### Tools
 
-## 🚀 Fun Zone  
-> *“Code, coffee, and curiosity — that’s the stack that keeps me going.”*
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode" />
+</p>
 
+---
 
-## ⚡ Currently Exploring  
-- 🛰️ Microservices + DevOps pipelines  
-- 🤖 AI-driven workflows  
-- 🛡️ Secure, scalable cloud architecture  
-- 🎨 Full-stack UI/UX improvements  
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iammalinga&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iammalinga&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammalinga&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=iammalinga&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Areas
+
+```yaml
+Cloud:
+  - AWS
+  - Terraform
+  - Docker
+  - Kubernetes
+
+Backend:
+  - Spring Boot
+  - Node.js
+  - REST APIs
+
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+
+Data:
+  - SQL
+  - Data Mining
+  - ETL Pipelines
+  - Statistics
+```
+
+---
+
+## 📚 Currently Learning
+
+- AWS Solutions Architecture
+- Kubernetes & Container Orchestration
+- DevSecOps Practices
+- AI Agent Development
+- Infrastructure as Code
+
+---
+
+## 💡 Fun Fact
+
+```bash
+while(problem_exists){
+    coffee++;
+    google();
+    debug();
+}
+```
+
+🦆 Rubber Duck Debugging has solved more bugs than I can count.
+
+---
+
+<div align="center">
+
+### ✨ Building the future, one commit at a time.
+
+</div>
